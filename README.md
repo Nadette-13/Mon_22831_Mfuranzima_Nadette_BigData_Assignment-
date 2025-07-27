@@ -85,4 +85,18 @@ Due to technical challenges with Power BI and Excel, I used Python libraries lik
 - Future analysis could incorporate **weather** or **holiday** data for deeper insights.
 
 ---
+---
+
+## Python Notebook
+
+The full code used for data cleaning, feature engineering, and visualization is available in the notebook:
+
+ [uber_fares_codes.ipynb](./uber_fares_codes.ipynb)
+
+It includes:
+- Data loading
+- Feature extraction (Hour, Day, Month, Weekday)
+- Ride and fare distribution analysis
+- Charts generated using Matplotlib & Seaborn
+
 
