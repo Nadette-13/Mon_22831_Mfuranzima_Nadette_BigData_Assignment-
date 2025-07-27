@@ -6,13 +6,13 @@
 **Instructor:** Eric Maniraguha  
 **Assignment:** Assignment I – Uber Fares Dataset Analysis  
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes the Uber Fares Dataset from Kaggle to uncover insights about ride volumes and temporal patterns in New York City. The project includes data cleaning, feature engineering, exploratory data analysis (EDA), and data visualization using Python (Colab).
 
 ---
 
-## 🧹 Data Preparation & Feature Engineering
+##  Data Preparation & Feature Engineering
 
 - Loaded the raw dataset into Python using Pandas.
 - Performed data cleaning by removing missing entries and correcting formats.
@@ -24,19 +24,22 @@ This project analyzes the Uber Fares Dataset from Kaggle to uncover insights abo
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 Due to technical challenges with Power BI and Excel, I used Python libraries like Matplotlib and Seaborn to generate visualizations:
 
-- 📈 **Number of Rides by Hour** – Shows daily peak ride times.  
-- 📅 **Rides by Weekday** – Shows ride frequency across the week.  
-- ⏰ **Peak vs Off-Peak Rides** – Categorizes rides into busy vs. normal hours.  
-- 💵 **Fare Distribution Histogram** – Shows how fare amounts vary.  
-- 📍 **Pickup Location Map** – (optional if included in the data).
+-  **Number of Rides by Hour** – Shows daily peak ride times.  
+- **Rides by Weekday** – Shows ride frequency across the week.  
+- *Peak vs Off-Peak Rides** – Categorizes rides into busy vs. normal hours.  
+-  **Fare Distribution Histogram** – Shows how fare amounts vary.  
+-  **Pickup Location Map** – (optional if included in the data).
+
+ Additionally, I encountered an issue while trying to upload the full cleaned dataset to GitHub. Due to file size limitations, I had to **delete some records** to reduce the size and successfully upload the dataset. This may slightly affect the completeness of the data but the analysis remains representative and accurate.
+
 
 ---
 
-## ⚠️ Issues Faced & Workaround
+##  Issues Faced & Workaround
 
 - Encountered “Class Not Registered” error while launching Power BI.
 - Excel also failed to load charts correctly.
@@ -45,7 +48,7 @@ Due to technical challenges with Power BI and Excel, I used Python libraries lik
 
 ---
 
-## 🖼️ Visualizations
+##  Visualizations
 
 ### Rides by Hour  
 ![Rides by Hour](number_of_rides_by_hour.png)
@@ -67,14 +70,14 @@ Due to technical challenges with Power BI and Excel, I used Python libraries lik
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - Cleaned dataset used for analysis:  
   [`uber_cleaned.csv`](uber_cleaned.CSV)
 
 ---
 
-## ✅ Conclusions and Recommendations
+## Conclusions and Recommendations
 
 - Ride demand peaks during rush hours: **7–9 AM** and **4–7 PM**.
 - Weekdays, especially **Tuesday** and **Friday**, have higher ride counts.
