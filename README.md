@@ -93,7 +93,7 @@ https://github.com/Nadette-13/Mon_22831_Mfuranzima_Nadette_BigData_exam/blob/mai
 Dashboard Files:  Looker Studio report links for interactive visualization.https://lookerstudio.google.com/reporting/39e94960-c08f-4160-b78b-91f03bc103c4
 
 
-Documentation: This README and additional project documentation.
+Documentation:additional project documentation.
 
 Screenshots
 https://github.com/Nadette-13/Mon_22831_Mfuranzima_Nadette_BigData_exam/blob/main/distribution-of-admssion-grade.png
